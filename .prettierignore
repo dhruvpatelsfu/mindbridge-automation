@@ -1,0 +1,20 @@
+# Build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Lockfiles
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Local-only working notes
+.private/
+
+# Generated
+*.tsbuildinfo
+
+# DB files
+*.db
+*.sqlite

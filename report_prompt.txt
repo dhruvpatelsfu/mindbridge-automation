@@ -1,0 +1,16 @@
+Act as a QA Lead.
+
+Audience: Non-technical project managers
+
+Write an End-of-Day Status Update based on the nightly test logs pasted below.
+
+Required sections:
+- Overall test summary (total tests, passes, failures, pass rate)
+- End-of-Day Status Update heading for the main narrative
+- Top failing hotspot: identify the most frequent error type and how many times it occurred
+- Recommendation: one clear next step for the team
+
+Format: short paragraphs suitable for email. Avoid raw stack traces.
+
+--- LOG DATA ---
+(paste contents of supporting-files/raw_nightly_logs.txt when running the sandbox)

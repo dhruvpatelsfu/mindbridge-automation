@@ -1,0 +1,16 @@
+{
+  "key": "MB-142",
+  "title": "Automate Account Update",
+  "type": "User Story",
+  "status": "In Review",
+  "assignee": "Jordan Lee",
+  "description": "As a team member, I want to automate the process of updating user accounts to improve efficiency and reduce errors.",
+  "comments": [
+    {
+      "author": "Jordan Lee",
+      "posted_at": "2026-10-19 03:24 UTC",
+      "body": "Test scripts complete. Pull request ready for review: local://mindbridge-automation/pull/1"
+    }
+  ],
+  "linked_pr": "local://mindbridge-automation/pull/1"
+}

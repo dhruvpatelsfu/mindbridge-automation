@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist/defects",
+    "rootDir": "../defects",
+    "paths": {},
+    "declaration": false,
+    "sourceMap": false
+  },
+  "include": ["../defects/**/*.ts"],
+  "exclude": ["node_modules", "dist", "../defects/**/*.test.ts"]
+}

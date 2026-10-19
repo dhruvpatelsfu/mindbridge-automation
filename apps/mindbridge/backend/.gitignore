@@ -1,0 +1,3 @@
+# Runtime SQLite data directory (created on first boot when DB_PATH is unset
+# and NODE_ENV is not 'test'). Never checked in.
+database/

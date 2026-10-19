@@ -1,0 +1,17 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "types": ["node", "vitest/globals"],
+    "baseUrl": ".",
+    "paths": {
+      "@shared/config-loader": ["../../../shared/config-loader/src/index.ts"],
+      "@shared/defect-framework": ["../../../shared/defect-framework/src/index.ts"]
+    }
+  },
+  "include": ["src/**/*", "test/**/*", "../defects/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

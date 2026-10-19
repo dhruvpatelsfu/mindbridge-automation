@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "description": "Clean baseline state with no active defects.",
+    "defects": {}
+  },
+  "lc4_project": {
+    "description": "LC4 Project — Automation & Release; Account Update form persists to SQLite.",
+    "defects": {}
+  }
+}

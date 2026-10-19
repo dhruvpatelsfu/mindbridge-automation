@@ -1,0 +1,6 @@
+{
+  "baseline": {
+    "description": "Clean baseline state with no active defects.",
+    "defects": {}
+  }
+}

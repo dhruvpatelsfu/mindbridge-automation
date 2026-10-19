@@ -1,0 +1,3 @@
+Defect modules live here.
+Each defect ships as defects/<id>/index.ts implementing the Defect interface
+exported by @shared/defect-framework.

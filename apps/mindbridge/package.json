@@ -1,0 +1,7 @@
+{
+  "name": "@apps/mindbridge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MindBridge — a learning catalogue application.",
+  "type": "module"
+}
